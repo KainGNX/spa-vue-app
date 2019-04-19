@@ -3,6 +3,14 @@
 /public/storage
 /storage/*.key
 /vendor
+
+/public/css/spa-vue-app.css
+/public/js/spa-vue-app.js
+
+.vagrant/
+.vscode/
+Vagrantfile
+after.sh
 .env
 .phpunit.result.cache
 Homestead.json
