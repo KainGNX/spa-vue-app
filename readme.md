@@ -55,6 +55,8 @@ npm run watch
 
 From the root of the app, simply look under `./resources/vue`
 
+__Note:__ Using Vue, the examples within were intended to include an array or principles slightly beyond the basics, even if not practical within the scope of this repository, it shows what can be done, and potentially built upon.
+
 #### Technologies
 - [Laravel](https:/laravel.com)
 - [Vue](https://vuejs.org)
@@ -62,5 +64,7 @@ From the root of the app, simply look under `./resources/vue`
 - [Sass](https://sass-lang.com/)
 - [Webpack](https://webpack.js.org/)
 
+
+_Feel free to make suggestions and contribrute, constructive feedback is very much appreciated._
 
 by Jason Horvath at [Greater Development](https://www.greaterdevelopment.com/)
