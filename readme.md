@@ -1,6 +1,6 @@
 # SPA Vue App with Laravel
 
-A basic boilerplate setup and example of an SPA (single page application) using Vue, Laravel, and Webpack.
+A basic boilerplate setup and example of an SPA (single page application) using Vue, Laravel, and Webpack. This also assumes a basic understanding Laravel and its webpack setup.  See "Technologies" below for information.
 
 ## Installation
 Make sure that virtual machine and vagrant are installed.
@@ -51,10 +51,16 @@ From within the project root in the vagrant VM, run
 npm run watch
 ```
 
+### Where are the Vue files?
+
+From the root of the app, simply look under `./resources/vue`
+
 #### Technologies
 - [Laravel](https:/laravel.com)
 - [Vue](https://vuejs.org)
+- [Bootstrap](https://getbootstrap.com/)
 - [Sass](https://sass-lang.com/)
 - [Webpack](https://webpack.js.org/)
+
 
 by Jason Horvath at [Greater Development](https://www.greaterdevelopment.com/)
