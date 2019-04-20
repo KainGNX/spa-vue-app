@@ -65,6 +65,6 @@ __Note:__ Using Vue, the examples within were intended to include an array or pr
 - [Webpack](https://webpack.js.org/)
 
 
-_Feel free to make suggestions and contribrute, constructive feedback is very much appreciated._
+Feel free to make suggestions and contribrute, constructive feedback is very much appreciated.
 
-by Jason Horvath at [Greater Development](https://www.greaterdevelopment.com/)
+_by Jason Horvath at [Greater Development](https://www.greaterdevelopment.com/)_
